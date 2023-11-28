@@ -1,0 +1,138 @@
+#header{
+    color:#f8f8f8;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    background-image: url(red.png);
+    height:60px;
+    width:100%;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+  
+
+ }
+ #welcome{
+    height: 20px;
+    width: 100%;
+    background-color: rgb(171, 171, 171)31, 131, 131;
+    text-align:center ;
+    font-size: 20px;
+    padding: 30px;
+ }
+ .Krishna{
+    background-image: url(bg2222.webp);
+ }
+
+ .Krishna h1{
+  margin: 1% 25%;
+  text-align: center;
+ }
+
+ h2{
+    display: inline-flex;
+    text-align: center;
+    text-decoration: none;
+    padding: 0 5%;
+    
+ }
+
+ .linku h2 a{
+  text-decoration: none;
+ }
+
+ a:hover{
+    color:rgb(219, 107, 16);
+ }
+
+ #nav{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+ }
+
+ #shyam{
+    text-align: center;
+ }
+
+ #Makhanchor{
+    text-align: center;
+    width: 100%;
+ }
+
+ #Govinda{
+    text-align: center;
+ }
+
+ #Girdhari{
+    text-align: center;
+ }
+
+ #Kanahiya{
+    text-align: center;
+
+ }
+ #Natwar{
+    text-align: center;
+    width: 100%;
+ }
+ #Kanha{
+    text-align: center;
+    width: 100%;
+ }
+ #Radha{
+   text-align: center;
+   width: 100%;
+ }
+ #Drama{
+   text-align: center;
+   width: 100%;
+ }
+ #Rama{
+   text-align: center;
+   width: 100%;
+ }
+ #Love{
+   text-align: center;
+ }
+ #Mehbooba{
+   text-align: center;
+ }
+ #Barat{
+   text-align: center;
+ }
+ #Chand{
+   text-align: center;
+ }
+ #Roshni{
+   text-align: center;
+ }
+ #Voice{
+   text-align: center;
+ }
+ #without{
+   text-align: center;
+ }
+ 
+ .linku{
+   text-align: center;
+   text-decoration:none;
+   background-color: #f8f8f8;
+   border-color: #f8f8f8;
+ }
+
+
+
+ /* ABOUT US */
+ .aboutus{
+   background-image: url(bgimag.jpg);
+ }
+ p{
+   font-size: 24px;
+ }
+ /* img{
+   border: radius 50px;
+ } */
+ #video{
+  width:auto;
+  text-align: center;
+ }
