@@ -1,1 +1,1 @@
-# wedplanning-.github.io
+# wedding planning-.github.io
